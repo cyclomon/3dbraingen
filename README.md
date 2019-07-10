@@ -38,4 +38,7 @@ You can download our Pre-trained models in our * [Google Drive](https://drive.go
 Download the models and save them in the directory './checkpoint'
 Then you can run the test code ('Test.ipynb')
 
+## Model Details
+You can get the detailed settings of used models in our model codes
 
+(Model_alphaGAN.py , Model_alphaWGAN.py , Model_VAEGAN.py, Model_WGAN.py)
