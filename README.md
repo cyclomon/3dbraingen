@@ -24,7 +24,7 @@ ADNI : Download Post-processed(processed with 'recon-all' command of * [Freesurf
 
 BRATS : Download dataset from BRATS2018 website.
 
-ATLAS : Download dataset from BRATS2018 website.
+ATLAS : Download dataset from ATLAS website.
         Obtain probability maps(masks) from the original .nii images with SPM12 'Segmentation' function. 
         Extract Brain areas with multiplying masks(c1,c2,c3 / GM,WM,CSF) with original images.
 
