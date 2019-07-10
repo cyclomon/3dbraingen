@@ -35,6 +35,7 @@ Run the Ipython Notebook code for each train / test trial.
         
 ## Test Details
 You can download our Pre-trained models in our * [Google Drive](https://drive.google.com/open?id=1Q5kkI_GxCY066c9owqzFFjzB_iEFCefJ)
+
 Download the models and save them in the directory './checkpoint'
 Then you can run the test code ('Test.ipynb')
 
