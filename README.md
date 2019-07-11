@@ -22,7 +22,7 @@ You can download the Normal MRI data in [Alzheimer's Disease Neuroimaging Initia
 
 We converted all the DICOM(.dcm) files of ADNI into Nifti(.nii) file format using [SPM12](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/) I/O tools.
 
-ADNI : Download Post-processed(processed with 'recon-all' command of * [Freesurfer](https://surfer.nmr.mgh.harvard.edu/)) Structural Images ( Labeled as 'Control Normal' )
+ADNI : Download Post-processed(processed with 'recon-all' command of [Freesurfer](https://surfer.nmr.mgh.harvard.edu/)) Structural images labeled as 'Control Normal'.
 
 BRATS : Download dataset from BRATS2018 website.
 
@@ -38,7 +38,7 @@ Each run takes ~12 hour with one NVIDIA TITAN X GPU.
 Run the Jupyter Notebook code for training (~train.ipynb)
         
 ## Test Details
-You can download our Pre-trained models in our * [Google Drive](https://drive.google.com/open?id=1Q5kkI_GxCY066c9owqzFFjzB_iEFCefJ)
+You can download our Pre-trained models in our [Google Drive](https://drive.google.com/open?id=1Q5kkI_GxCY066c9owqzFFjzB_iEFCefJ)
 
 Download the models and save them in the directory './checkpoint'
 Then you can run the test code ('Test.ipynb')
