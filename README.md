@@ -3,7 +3,9 @@
 This repository provides a PyTorch implementation of 3D brain Generation. It can successfully generates plausible 3-dimensional brain MRI with Generative Adversarial Networks. Trained models are also provided in this page.
 
 ## Paper
-Generation of 3D Brain MRI Using Auto-Encoding Generative Adversarial Networks. The 22nd International Conference on Medical Image Computing and Computer Assisted Intervention(MICCAI 2019)
+"Generation of 3D Brain MRI Using Auto-Encoding Generative Adversarial Networks"
+
+The 22nd International Conference on Medical Image Computing and Computer Assisted Intervention(MICCAI 2019)
 
 ## Dependencies
 * [Python 3.5+](https://www.continuum.io/downloads)
@@ -29,9 +31,11 @@ ATLAS : Download dataset from ATLAS website.
         Extract Brain areas with multiplying masks(c1,c2,c3 / GM,WM,CSF) with original images.
 
 ## Training Details
-For each training, run 12,000 iterations ( take ~12 hour with one NVIDIA TITANX GPU )
+For each training, run 12,000 iterations (100 epochs in VAE-GAN)
 
-Run the Ipython Notebook code for each train / test trial.
+Each run takes ~12 hour with one NVIDIA TITAN X GPU.
+
+Run the Jupyter Notebook code for training (~train.ipynb)
         
 ## Test Details
 You can download our Pre-trained models in our * [Google Drive](https://drive.google.com/open?id=1Q5kkI_GxCY066c9owqzFFjzB_iEFCefJ)
