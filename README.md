@@ -43,6 +43,10 @@ You can download our Pre-trained models in our * [Google Drive](https://drive.go
 Download the models and save them in the directory './checkpoint'
 Then you can run the test code ('Test.ipynb')
 
+Quantitative calculation (MS-SSIM / MMD score) & Image sampling is availble in the code.
+
+PCA visualization code will be updated soon.
+
 ## Model Details
 You can get the detailed settings of used models in our model codes
 
