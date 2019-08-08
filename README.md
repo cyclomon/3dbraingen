@@ -6,7 +6,7 @@ This repository provides a PyTorch implementation of 3D brain Generation. It can
 "Generation of 3D Brain MRI Using Auto-Encoding Generative Adversarial Networks"
 
 The 22nd International Conference on Medical Image Computing and Computer Assisted Intervention(MICCAI 2019)
-
+: (https://arxiv.org/abs/1908.02498)
 ## Dependencies
 * [Python 3.5+](https://www.continuum.io/downloads)
 * [PyTorch 0.4.0+](http://pytorch.org/)
