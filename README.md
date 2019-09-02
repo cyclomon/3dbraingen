@@ -51,3 +51,9 @@ PCA visualization code will be updated soon.
 You can get the detailed settings of used models in our model codes
 
 (Model_alphaGAN.py , Model_alphaWGAN.py , Model_VAEGAN.py, Model_WGAN.py)
+
+
+## Details for Dataset
+If you have any question about data, feel free to e-mail me!
+
+cyclomon@kaist.ac.kr
