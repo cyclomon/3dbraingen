@@ -45,7 +45,7 @@ Then you can run the test code ('Test.ipynb')
 
 Quantitative calculation (MS-SSIM / MMD score) & Image sampling is availble in the code.
 
-PCA visualization code will be updated soon.
+For the PCA visualization, please follow the PCA tutorial that Nilearn provides.
 
 ## Model Details
 You can get the detailed settings of used models in our model codes
