@@ -7,6 +7,19 @@ This repository provides a PyTorch implementation of 3D brain Generation. It can
 
 The 22nd International Conference on Medical Image Computing and Computer Assisted Intervention(MICCAI 2019)
 : (https://arxiv.org/abs/1908.02498)
+
+## Cite
+```
+@inproceedings{kwon2019generation,
+  title={Generation of 3D brain MRI using auto-encoding generative adversarial networks},
+  author={Kwon, Gihyun and Han, Chihye and Kim, Dae-shik},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={118--126},
+  year={2019},
+  organization={Springer}
+}
+```
+
 ## Dependencies
 * [Python 3.5+](https://www.continuum.io/downloads)
 * [PyTorch 0.4.0+](http://pytorch.org/)
